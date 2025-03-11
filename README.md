@@ -2,11 +2,11 @@
 # 📚 Diário de Engenharia de Software - {Nome do Aluno}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+*São um conjunto de técnicas e métodos organizacionais usados para criar soluções de softwares como comunicação panejamento, modelagem,construção e entrega
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+(Explique brevmente o modelo Cascata e suas características.)
 
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
