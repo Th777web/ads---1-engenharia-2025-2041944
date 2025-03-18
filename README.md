@@ -10,14 +10,19 @@ São um conjunto de técnicas e métodos organizacionais usados para criar solu�
 
 🛠️### cascata
 A metodologia tradicional do metodo Cascata, é uma das metodologias de desenvolvimento de software mais antigas e fundamentais. A sua estrutura é linear e sequencial, dividida em etapas distintas que seguem uma ordem estrita: requisitos, design, implementação, teste, integração e manutenção.
+
+
 ![Captura de tela 2025-03-18 194712](https://github.com/user-attachments/assets/62dcb88c-fbe1-4dab-8303-7e83ed164e81)
 
 ### 🌐 Espiral  
 O modelo espiral divide o processo de desenvolvimento de software em quatro quadrantes: planejamento, análise de risco, engenharia e avaliação,para ver se atende os requisitos do cliente 
+
 ![image](https://github.com/user-attachments/assets/b6fc8ff6-535b-49d1-b589-eee83ade5868)
 
 ## 💪 Metodologias Ágeis 
 São conjuntos de práticas que proporcionam uma forma de gerenciar projetos mais adaptável às mudanças, elas permitem uma resposta mais rápida às necessidades do cliente, facilitando ajustes ao longo do ciclo do projeto
+
+
 ![image](https://github.com/user-attachments/assets/f02f2721-af80-4132-8b95-91fef283a483)
 
 
@@ -35,6 +40,8 @@ O Scrum prescreve que as equipes dividam o trabalho em metas a serem concluídas
 
 ### 📅 Sprints  
 Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai ajudar sua equipe ágil a fornecer produtos melhores com menos dores de cabeça
+
+
 ![image](https://github.com/user-attachments/assets/d488c838-903f-41e0-a34a-48e623b2a29a)
 
 
