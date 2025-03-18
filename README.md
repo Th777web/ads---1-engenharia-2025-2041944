@@ -8,10 +8,13 @@ São um conjunto de técnicas e métodos organizacionais usados para criar solu�
 ![Captura de tela 2025-03-18 194547](https://github.com/user-attachments/assets/bcf2a098-123c-48e2-8eec-143f03b0dc51)
 
 
-🛠️A metodologia tradicional do metodo Cascata, é uma das metodologias de desenvolvimento de software mais antigas e fundamentais. A sua estrutura é linear e sequencial, dividida em etapas distintas que seguem uma ordem estrita: requisitos, design, implementação, teste, integração e manutenção.
+🛠️### cascata
+A metodologia tradicional do metodo Cascata, é uma das metodologias de desenvolvimento de software mais antigas e fundamentais. A sua estrutura é linear e sequencial, dividida em etapas distintas que seguem uma ordem estrita: requisitos, design, implementação, teste, integração e manutenção.
+![Captura de tela 2025-03-18 194712](https://github.com/user-attachments/assets/62dcb88c-fbe1-4dab-8303-7e83ed164e81)
 
 ### 🌐 Espiral  
 O modelo espiral divide o processo de desenvolvimento de software em quatro quadrantes: planejamento, análise de risco, engenharia e avaliação,para ver se atende os requisitos do cliente 
+![image](https://github.com/user-attachments/assets/b6fc8ff6-535b-49d1-b589-eee83ade5868)
 
 ## 💪 Metodologias Ágeis 
 São conjuntos de práticas que proporcionam uma forma de gerenciar projetos mais adaptável às mudanças, elas permitem uma resposta mais rápida às necessidades do cliente, facilitando ajustes ao longo do ciclo do projeto
