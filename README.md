@@ -4,7 +4,10 @@
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 São um conjunto de técnicas e métodos organizacionais usados para criar soluções de softwares como comunicação panejamento, modelagem,construção e entrega
 
-## 📖 Metodologias Tradicionais  
+## 📖 Metodologias Tradicionais
+![Captura de tela 2025-03-18 194547](https://github.com/user-attachments/assets/bcf2a098-123c-48e2-8eec-143f03b0dc51)
+
+
 🛠️A metodologia tradicional do metodo Cascata, é uma das metodologias de desenvolvimento de software mais antigas e fundamentais. A sua estrutura é linear e sequencial, dividida em etapas distintas que seguem uma ordem estrita: requisitos, design, implementação, teste, integração e manutenção.
 
 ### 🌐 Espiral  
