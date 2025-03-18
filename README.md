@@ -27,17 +27,15 @@ O Manifesto Ágil foi elaborado para revolucionar o desenvolvimento de softwares
 *Software funcionamento é mais importante que a documentação completa
 *Colabaração com cliente é mais valiosa que contratos
 *É melhor reagir a mudanças do que sguir o planejamento 
-![image](https://github.com/user-attachments/assets/1963f583-e686-406b-bb06-126d2eb23dc5)
 
 
 ## 🏆 Scrum 
 O Scrum prescreve que as equipes dividam o trabalho em metas a serem concluídas dentro de iterações com limite de tempo, chamadas sprints.
-![image](https://github.com/user-attachments/assets/9347e555-56c5-491a-985d-0fb3c85fb6df)
 
 
 ### 📅 Sprints  
 Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai ajudar sua equipe ágil a fornecer produtos melhores com menos dores de cabeça
-![image](https://github.com/user-attachments/assets/824843b9-5762-4fd3-90be-e40956d1ee57)
+
 
 ### 💬 Cerimônias  
 As principais cerimônias são ,o planejamento de sprit,reuniões rápidas, Revisão do sprit ,retrospectiva e a  conclusão 
