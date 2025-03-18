@@ -41,7 +41,7 @@ Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai a
 
 ### 💬 Cerimônias  
 As principais cerimônias são ,o planejamento de sprit,reuniões rápidas, Revisão do sprit ,retrospectiva e a  conclusão 
-![Uploading image.png…]()
+https://papodedev.com.br/wp-content/uploads/2024/08/impedimentos-no-scrum.jpg
 
 
 ## 🎯 Kanban  
