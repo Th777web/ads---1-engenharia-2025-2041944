@@ -35,6 +35,8 @@ O Scrum prescreve que as equipes dividam o trabalho em metas a serem concluídas
 
 ### 📅 Sprints  
 Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai ajudar sua equipe ágil a fornecer produtos melhores com menos dores de cabeça
+![image](https://github.com/user-attachments/assets/d488c838-903f-41e0-a34a-48e623b2a29a)
+
 
 
 ### 💬 Cerimônias  
