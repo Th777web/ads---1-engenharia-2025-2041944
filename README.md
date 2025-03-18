@@ -41,6 +41,8 @@ Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai a
 
 ### 💬 Cerimônias  
 As principais cerimônias são ,o planejamento de sprit,reuniões rápidas, Revisão do sprit ,retrospectiva e a  conclusão 
+![Uploading image.png…]()
+
 
 ## 🎯 Kanban  
 Kanban é uma metodologia ágil que permite fazer o acompanhamento de tarefa,e ajuda a reduzir a perda de tempo ,assim ficando mais organizado como deixando as prioridades e oque não sao prioridades 
